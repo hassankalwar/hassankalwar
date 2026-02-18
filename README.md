@@ -150,7 +150,10 @@ I’m available for:
 | LinkedIn | https://linkedin.com/in/ali-hassan-kalwar |
 | Kaggle | https://kaggle.com/alikalwar |
 | Company | https://cyberbeak.com |
+
 </td>
+</tr>
+</table>
 
 
 ---
