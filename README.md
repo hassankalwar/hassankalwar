@@ -13,7 +13,7 @@ I am a **Full Stack Software Engineer and AI/ML Specialist** with strong experti
 
 I help startups, enterprises, and growing businesses transform their ideas into **scalable, secure, and revenue-generating technology products**.
 
-✔️ 4+ years professional development experience  
+✔️ 5+ years professional development experience  
 ✔️ Specialized in AI-enabled Auction Platforms & SaaS Architectures  
 ✔️ Strong background in Django, React, and Cloud Infrastructure  
 ✔️ Delivered solutions across multiple industries including marketplaces, automation systems, and enterprise tools  
@@ -34,77 +34,151 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ---
 
-## 🧠 Technical Expertise
+<table>
+<tr>
 
-### Backend & Architecture
-- Python, Django, Django REST Framework
-- Node.js
-- Microservices Architecture
-- REST APIs & System Design
-- PostgreSQL, MySQL, MongoDB
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassankalwar" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Services & Solutions
+
+<table>
+<tr>
+<td width="33%">
+
+### SaaS Development
+- Multi-Tenant Platforms  
+- Subscription Systems  
+- Admin Dashboards  
+- API Ecosystems  
+
+</td>
+<td width="33%">
+
+### AI & Automation
+- Machine Learning Models  
+- Predictive Analytics  
+- NLP Solutions  
+- Intelligent Automation  
+
+</td>
+<td width="33%">
+
+### Custom Systems
+- ERP Software  
+- Auction Platforms  
+- Marketplaces  
+- Business Tools  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Technology Stack
+
+<table>
+<tr>
+<td width="25%">
+
+### Backend
+- Python  
+- Django / DRF  
+- Node.js  
+- REST APIs  
+
+</td>
+<td width="25%">
 
 ### Frontend
-- React.js
-- Next.js
-- Modern UI/UX Implementation
-- Responsive & Data-Dense Dashboards
+- React.js  
+- Next.js  
+- JavaScript  
+- Tailwind / UI Systems  
 
-### AI / Machine Learning
-- TensorFlow, PyTorch
-- Scikit-Learn, Pandas, NumPy
-- NLP & Predictive Modeling
-- Deep Learning Systems
+</td>
+<td width="25%">
+
+### AI / Data
+- TensorFlow  
+- PyTorch  
+- Scikit-Learn  
+- Pandas / NumPy  
+
+</td>
+<td width="25%">
 
 ### Cloud & DevOps
-- AWS, Azure, Google Cloud
-- Docker & Containerization
-- CI/CD Pipelines
-- Deployment & Performance Optimization
+- AWS  
+- Azure  
+- Docker  
+- CI/CD  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Current Focus
+## 🔥 Specialization
 
-- AI-Powered Auction Ecosystems
-- Enterprise SaaS Platforms
-- Intelligent Automation Systems
-- Scalable Cloud Architectures
+<table>
+<tr>
+<td>
+
+✅ AI-Enabled Auction Platforms  
+✅ Enterprise SaaS Architecture  
+✅ High-Performance Backend Systems  
+✅ Startup MVP Development  
+✅ Automation & Workflow Systems  
+✅ Cloud Deployment & Scaling  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Portfolio & Case Studies
-
-Explore my work and real-world projects:
+## 📂 Portfolio
 
 🌐 https://cyberbeak.com/case_studies/
 
 ---
 
-## 🤝 Collaboration & Opportunities
+## 🤝 Collaboration
 
-I am open to:
+I’m available for:
 
-- High-value freelance projects
-- Long-term technical partnerships
-- Startup collaborations
-- Remote engineering roles
-- SaaS product development
-
-If you are looking for a developer who understands **business impact — not just code**, let's connect.
+- High-Value Freelance Projects
+- Long-Term Development Partnerships
+- Startup MVP Development
+- Remote Engineering Roles
+- SaaS Product Architecture
 
 ---
 
 ## 📫 Contact
 
-📧 Email: ahasssnnn@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/ali-hassan-kalwar  
-📊 Kaggle: https://kaggle.com/alikalwar  
+| Platform | Link |
+|----------|------|
+| Email | ahasssnnn@gmail.com |
+| LinkedIn | https://linkedin.com/in/ali-hassan-kalwar |
+| Kaggle | https://kaggle.com/alikalwar |
+| Company | https://cyberbeak.com |
 
 ---
 
-## ⚡ Core Strength
-
-> Turning complex business problems into intelligent, scalable, and profitable software solutions.
+<p align="center">
+<strong>Turning complex business challenges into scalable, intelligent software.</strong>
+</p>
 
 ---
 
