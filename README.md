@@ -24,31 +24,36 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 <table width="100%">
 <tr>
-<td width="33%">
+<td align="left" valign="top">
 
-### SaaS Development
+### 🚀 SaaS Development
 - Multi-Tenant Platforms  
-- Subscription Systems  
+- Subscription & Billing Systems  
 - Admin Dashboards  
 - API Ecosystems  
+- Scalable Cloud Architecture  
 
 </td>
-<td width="33%">
 
-### AI & Automation
+<td align="left" valign="top">
+
+### 🤖 AI & Automation
 - Machine Learning Models  
 - Predictive Analytics  
 - NLP Solutions  
 - Intelligent Automation  
+- Data Processing Pipelines  
 
 </td>
-<td width="33%">
 
-### Custom Systems
+<td align="left" valign="top">
+
+### 🏢 Custom Systems
 - ERP Software  
 - Auction Platforms  
-- Marketplaces  
-- Business Tools  
+- Marketplace Systems  
+- Business Automation Tools  
+- Enterprise Applications  
 
 </td>
 </tr>
@@ -58,9 +63,9 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ## 🧠 Technology Stack
 
-<table>
+<table width="100%">
 <tr>
-<td width="25%">
+<td align="left" valign="top">
 
 ### Backend
 - Python  
@@ -69,7 +74,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 - REST APIs  
 
 </td>
-<td width="25%">
+<td align="left" valign="top">
 
 ### Frontend
 - React.js  
@@ -78,7 +83,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 - Tailwind / UI Systems  
 
 </td>
-<td width="25%">
+<td align="left" valign="top">
 
 ### AI / Data
 - TensorFlow  
@@ -87,7 +92,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 - Pandas / NumPy  
 
 </td>
-<td width="25%">
+<td align="left" valign="top">
 
 ### Cloud & DevOps
 - AWS  
@@ -103,9 +108,6 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ## 🔥 Specialization
 
-<table>
-<tr>
-<td>
 
 ✅ AI-Enabled Auction Platforms  
 ✅ Enterprise SaaS Architecture  
@@ -114,9 +116,6 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 ✅ Automation & Workflow Systems  
 ✅ Cloud Deployment & Scaling  
 
-</td>
-</tr>
-</table>
 
 ---
 
