@@ -22,7 +22,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ## 💼 What I Can Build For You
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%">
 
