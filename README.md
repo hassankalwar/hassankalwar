@@ -22,7 +22,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ## What I Can Build For You
 
-<table width="100%" align="center">
+<table width="100%" align="center" border="0">
 <tr>
 <td align="left" valign="top">
 
@@ -63,7 +63,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ## Technology Stack
 
-<table width="100%" align="center">
+<table width="100%" align="center" border="0">
 <tr>
 <td align="left" valign="top">
 
@@ -125,7 +125,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ---
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td width="50%">
   
