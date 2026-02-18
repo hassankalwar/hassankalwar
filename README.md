@@ -22,33 +22,6 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ## 💼 What I Can Build For You
 
-- SaaS Platforms (Multi-Tenant Architecture)
-- Auction & Marketplace Systems (AI-Enabled Bidding, Automation)
-- ERP & Business Management Software
-- Custom Web Applications & Dashboards
-- AI / Machine Learning / Data Science Solutions
-- Automation & Workflow Systems
-- API Development & System Integrations
-- High-Performance Backend Systems
-- Startup MVP Development (Fast & Scalable)
-
----
-
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassankalwar" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Services & Solutions
-
 <table>
 <tr>
 <td width="33%">
