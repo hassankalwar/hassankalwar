@@ -7,7 +7,7 @@ Building Scalable Software, Intelligent Platforms, and High-Performance Digital 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a **Full Stack Software Engineer and AI/ML Specialist** with strong expertise in designing and delivering **enterprise-grade SaaS platforms, AI-powered systems, Auction solutions, ERP software, and custom business applications**.
 
@@ -20,13 +20,13 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ---
 
-## 💼 What I Can Build For You
+## What I Can Build For You
 
 <table width="100%">
 <tr>
 <td align="left" valign="top">
 
-### 🚀 SaaS Development
+### SaaS Development
 - Multi-Tenant Platforms  
 - Subscription & Billing Systems  
 - Admin Dashboards  
@@ -37,7 +37,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 <td align="left" valign="top">
 
-### 🤖 AI & Automation
+### AI & Automation
 - Machine Learning Models  
 - Predictive Analytics  
 - NLP Solutions  
@@ -48,7 +48,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 <td align="left" valign="top">
 
-### 🏢 Custom Systems
+### Custom Systems
 - ERP Software  
 - Auction Platforms  
 - Marketplace Systems  
@@ -61,7 +61,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ---
 
-## 🧠 Technology Stack
+## Technology Stack
 
 <table width="100%">
 <tr>
@@ -106,7 +106,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ---
 
-## 🔥 Specialization
+## Specialization
 
 
 ✅ AI-Enabled Auction Platforms  
@@ -124,7 +124,9 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 🌐 https://cyberbeak.com/case_studies/
 
 ---
-
+<table>
+<tr>
+<td width="50%">
 ## 🤝 Collaboration
 
 I’m available for:
@@ -134,9 +136,9 @@ I’m available for:
 - Startup MVP Development
 - Remote Engineering Roles
 - SaaS Product Architecture
+</td>
 
----
-
+<td width="50%">
 ## 📫 Contact
 
 | Platform | Link |
@@ -145,6 +147,8 @@ I’m available for:
 | LinkedIn | https://linkedin.com/in/ali-hassan-kalwar |
 | Kaggle | https://kaggle.com/alikalwar |
 | Company | https://cyberbeak.com |
+</td>
+
 
 ---
 
