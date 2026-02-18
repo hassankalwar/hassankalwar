@@ -22,7 +22,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ## What I Can Build For You
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td align="left" valign="top">
 
@@ -63,7 +63,7 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 
 ## Technology Stack
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td align="left" valign="top">
 
@@ -124,9 +124,11 @@ I help startups, enterprises, and growing businesses transform their ideas into 
 🌐 https://cyberbeak.com/case_studies/
 
 ---
-<table>
+
+<table align="center">
 <tr>
 <td width="50%">
+  
 ## 🤝 Collaboration
 
 I’m available for:
@@ -139,6 +141,7 @@ I’m available for:
 </td>
 
 <td width="50%">
+  
 ## 📫 Contact
 
 | Platform | Link |
