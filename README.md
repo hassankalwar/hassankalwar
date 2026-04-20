@@ -12,8 +12,7 @@ Building Scalable Software, Intelligent Platforms, and High-Performance Digital 
 I am a **Full Stack Software Engineer and AI/ML Specialist** with strong expertise in designing and delivering **enterprise-grade SaaS platforms, AI-powered systems, Auction solutions, ERP software, and custom business applications**.
 
 I help startups, enterprises, and growing businesses transform their ideas into **scalable, secure, and revenue-generating technology products**.
-
-✔️ 5+ years professional development experience  
+ 
 ✔️ Specialized in AI-enabled Auction Platforms & SaaS Architectures  
 ✔️ Strong background in Django, React, and Cloud Infrastructure  
 ✔️ Delivered solutions across multiple industries including marketplaces, automation systems, and enterprise tools  
