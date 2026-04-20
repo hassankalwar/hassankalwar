@@ -1,8 +1,5 @@
-<h1 align="center">Ali Hassan</h1>
-<h3 align="center">Full Stack Engineer | AI/ML Specialist | SaaS & Auction Systems Architect</h3>
-
-<p align="center">
-Building Scalable Software, Intelligent Platforms, and High-Performance Digital Products
+<p>
+Building Scalable Custom Software, Intelligent SaaS Platforms, and High-Performance AI-Enabled Digital Products
 </p>
 
 ---
